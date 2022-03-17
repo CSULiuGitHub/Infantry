@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="1000" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="STM32F407VG" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ScriptFile Name="D:\rm\2021\FYT_infantry_XIV(2)\F407\MDK-ARM\F407\F407.jscope\unspecified" />
+            <ElfFile Name="D:\rm\2021\FYT_infantry_XIV(2)\F407\MDK-ARM\F407\F407.axf" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="1000000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="vData_x" Address="0x20000154" Type="short" TypeID="11" Size="2" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="-32768" YMaxSampled="1267" YAvgSampled="-159" Offset="4" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="20000" MaxValue="40000" File="..\Middlewares\Third_Party\SoftWare\vision.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="vData_y" Address="0x20000156" Type="short" TypeID="11" Size="2" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="-998" YMaxSampled="8192" YAvgSampled="96" Offset="6" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="5000" MaxValue="10000" File="..\Middlewares\Third_Party\SoftWare\vision.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="vData_z" Address="0x20000158" Type="short" TypeID="11" Size="2" GraphColorRed="102" GraphColorGreen="102" GraphColorBlue="178" YMinSampled="-17040" YMaxSampled="16284" YAvgSampled="-117" Offset="8" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="10000" MaxValue="20000" File="..\Middlewares\Third_Party\SoftWare\vision.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

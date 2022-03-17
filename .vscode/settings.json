@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dma_unpack.h": "c",
+        "vision.h": "c",
+        "judge_rx.h": "c"
+    }
+}

@@ -1,0 +1,10 @@
+f407\kfilter.o: ..\Middlewares\Third_Party\SoftWare\kfilter.c
+f407\kfilter.o: ..\Middlewares\Third_Party\SoftWare\kfilter.h
+f407\kfilter.o: ../Drivers/CMSIS/DSP/Include/arm_math.h
+f407\kfilter.o: ../Drivers/CMSIS/Include/core_cm4.h
+f407\kfilter.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+f407\kfilter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+f407\kfilter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+f407\kfilter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+f407\kfilter.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+f407\kfilter.o: D:\keil\ARM\ARMCC\Bin\..\include\math.h
